@@ -1,7 +1,7 @@
 # Olá! Eu sou o Lucas Lima! 🇧🇷
 
 <p align='justify'>
-Sou desenvolvedor front-end, graduado em sistemas para internet💚, 25 anos 👨‍💻, estou me aventurando em uma profissão que se tornou um sonho 😍.
+Sou desenvolvedor front-end, graduado em sistemas para internet💚, 26 anos 👨‍💻, estou me aventurando em uma profissão que se tornou um sonho 😍.
 
 Atuo como desenvolvedor frontend mobile na IBM, utilizando React e React Native nos projetos do Bradesco. Sou responsável por implementar novas features e trazer melhorias para o app. 
 
